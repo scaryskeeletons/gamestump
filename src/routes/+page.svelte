@@ -10,10 +10,10 @@
             <a href="https://twitter.com/GameStumpSol" target="_blank" rel="noopener" class="social-link">
                 <img src="xlogo.webp" alt="Twitter"/>
             </a>
-            <a href="https://dexscreener.com/solana/5224rcugggwgm7y3ffhrnfz16dk72zmpjx31btv4bcpi" target="_blank" rel="noopener" class="social-link">
+            <a href="https://dexscreener.com/solana/hmlqp6u3tx7hkwcmw3rqu1c1qmaa3jbzfkw4opeu82qb" target="_blank" rel="noopener" class="social-link">
                 <img src="dexscreener.webp" alt="DexScreener"/>
             </a>
-            <a href="https://t.me/GAMESTUMP" target="_blank" rel="noopener" class="social-link">
+            <a href="https://t.me/+joazwH90UnM5YmY5" target="_blank" rel="noopener" class="social-link">
                 <img src="telegramlogo.webp" alt="Telegram"/>
             </a>
         </div>
